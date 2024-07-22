@@ -74,11 +74,5 @@
 
 ---
 
-<h3 align="left">Pinned Projects:</h3>
-<p align="left">
-  <a href="https://github.com/swapniljyt/OpenAI-SubjectiveAnswerSheet-Evaluation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swapniljyt&repo=OpenAI-SubjectiveAnswerSheet-Evaluation&theme=vision-friendly-dark" alt="OpenAI Subjective AnswerSheet Evaluation"/>
-  </a>
-</p>
 
 
