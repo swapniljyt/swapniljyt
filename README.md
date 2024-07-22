@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/ca22d011f40614085f05500096aee63b2703e91261e987fa7e4e0fc7b3211258/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" alt="Data Science Animation" width="600"/>
+  <img src="https://camo.githubusercontent.com/ca22d011f40614085f05500096aee63b2703e91261e987fa7e4e0fc7b3211258/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" alt="Data Science Animation" width="300"/>
 </p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swapniljyt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
