@@ -68,4 +68,22 @@
   </a>
 </p>
 
+---
+
+<h3 align="left">Projects:</h3>
+<p align="left">
+  <a href="https://github.com/swapniljyt/OpenAI-SubjectiveAnswerSheet-Evaluation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swapniljyt&repo=OpenAI-SubjectiveAnswerSheet-Evaluation&theme=vision-friendly-dark" alt="OpenAI Subjective AnswerSheet Evaluation"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">Animated GIFs:</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Data Science GIF"/>
+  <img src="https://media.giphy.com/media/2o7Znr7Bw8y3W/giphy.gif" width="400" alt="Machine Learning GIF"/>
+</p>
+
+
 
