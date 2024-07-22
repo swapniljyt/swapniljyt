@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ca22d011f40614085f05500096aee63b2703e91261e987fa7e4e0fc7b3211258/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" alt="Data Science Animation" width="600"/>
+</p>
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swapniljyt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
 
 ---
@@ -70,20 +74,11 @@
 
 ---
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Pinned Projects:</h3>
 <p align="left">
   <a href="https://github.com/swapniljyt/OpenAI-SubjectiveAnswerSheet-Evaluation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=swapniljyt&repo=OpenAI-SubjectiveAnswerSheet-Evaluation&theme=vision-friendly-dark" alt="OpenAI Subjective AnswerSheet Evaluation"/>
   </a>
 </p>
-
----
-
-<h3 align="left">Animated GIFs:</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Data Science GIF"/>
-  <img src="https://media.giphy.com/media/2o7Znr7Bw8y3W/giphy.gif" width="400" alt="Machine Learning GIF"/>
-</p>
-
 
 
